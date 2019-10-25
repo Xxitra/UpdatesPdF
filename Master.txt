@@ -6,3 +6,7 @@
 <Version: 7.00>
 /data/hola.zip https://wordpress.org/latest.zip
 <End of Version>
+
+<Version: 5.00>
+/data/hola.zip https://wordpress.org/latest.zip
+<End of Version>
